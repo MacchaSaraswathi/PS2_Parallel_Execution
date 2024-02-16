@@ -1,0 +1,5 @@
+stepdefinitions\SharedSteps.class
+stepdefinitions\SearchStepDefinitions.class
+runners\TestRunner_Search.class
+runners\TestRunner_Login.class
+stepdefinitions\LoginStepDefinitions.class
